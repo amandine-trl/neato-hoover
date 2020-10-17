@@ -25,3 +25,5 @@ pnpm-debug.log*
 localhost\.crt
 
 localhost\.key
+
+src/services/api/_privateNeatoData\.js
